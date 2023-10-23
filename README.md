@@ -8,7 +8,7 @@
 
 ***Edición 2023*** 
 
-Comparto el trabajo presentado en las JORNADAS DE ESTADISTICA, llevadas a cabo por el grupo de [Modelización Estadística de Datos e Inteligencia Artificial- Modelización y Análisis de Recursos Naturales (MEDIA-MAREN])(https://www.maren.cure.edu.uy/) desarrolladas el 20 y 21 de octubre de 2023 en La Paloma, Rocha.
+Comparto el trabajo presentado en las JORNADAS DE ESTADISTICA, llevadas a cabo por el grupo de [Modelización Estadística de Datos e Inteligencia Artificial- Modelización y Análisis de Recursos Naturales (MEDIA-MAREN)](https://www.maren.cure.edu.uy/) desarrolladas el 20 y 21 de octubre de 2023 en La Paloma, Rocha.
 
 # Comparación de algoritmos de inteligencia artificial para la predicción de concentración de partículas finas (PM2.5) en diferentes usos del suelo a partir de variables satelitales
 
